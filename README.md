@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mitali Shandilya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Productivity Hub](https://github.com/Mitali-Shandilya/productivity-hub)
-
-- 🌱 I’m currently learning **React.js**
-
 - 📫 How to reach me **mitalishandilya2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vaVsCy3VITspK1__JSoBUl5Y_f4gV-yI/view?usp=sharing](https://drive.google.com/file/d/1vaVsCy3VITspK1__JSoBUl5Y_f4gV-yI/view?usp=sharing)
